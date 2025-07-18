@@ -7,6 +7,8 @@
 ### State
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myknow)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myknow00)](https://solved.ac/myknow00/)
+
+[![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMyKnow%2F?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
 > 저는 **PM, Flutter · iOS Front-End · DevOps · QA**로  
 > 모바일·웹·서버·인프라 전반에 걸친 **Full‑Cycle 개발 역량**과  
 > 하루 만에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
