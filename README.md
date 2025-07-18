@@ -1,16 +1,90 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello+World!&fontSize=90)
 
-<!--
-**MyKnow/MyKnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <img width="855" height="600" alt="image" src="https://github.com/user-attachments/assets/b6b54319-31eb-4ab5-b1b6-ba816c1f4912" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### State
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myknow)](https://github.com/anuraghazra/github-readme-stats)
+> 저는 **PM, Flutter · iOS Front-End · DevOps · QA**로  
+> 모바일·웹·서버·인프라 전반에 걸친 **Full‑Cycle 개발 역량**과  
+> 하루 만에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
+
+### Notice
+- 🔭 현재 기획 중: **On-Device LLM기반 공감형 일기장 앱**  
+- 🌱 학습 중: **SwiftUI on iOS26**
+- 📚 탐색 중: **LLM**, **Kubernetes**  
+- 👯 협업 희망: iOS Native, Flutter Project
+- 💬 문의 가능 분야: Flutter, DevOps 자동화, WebAssembly, AI 연동 
+
+
+---
+
+### ⭐️ Starred Projects
+
+- [**Woju: 중고 물품 교환 플랫폼**](https://github.com/MyKnow/woju) – Project Manager, Front-End, Back-End, DevOps
+- [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
+- [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
+- [**iShoppin: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스**](https://github.com/MyKnow/ishopping) – Project Manager, Front-End, AI Data Manager
+- [**Stay19.5: AI 기반 네컷사진 분류 서비스**](https://github.com/MyKnow/Stay19.5) – Front-End 
+- [**뚜벅뚜멍: AI 기반 반려견 건강 관리 SNS**](https://github.com/MyKnow/b2gin) – Project Manager, Front-End
+
+---
+
+### 🎓 학력 및 수료
+
+- **병장 전역 (정보병과, 2020.03-2021.10)**  
+- **여수고등학교 졸업 (2016.03-2019.02)**  
+- **단국대학교 모바일시스템공학전공 졸업 (2019.03–2025.02)**  
+- **TABA(Top-tier AI Bigdata Academy) 4기 부트캠프  우수 프로젝트 수료 (2023.09-2023.12)**
+
+---
+
+### 📜 자격증 및 면허
+
+- **정보처리기사** (2025.06)  
+- **자동차운전면허 1종 보통** (2020.03)
+
+---
+
+### 🥇 주요 수상 및 경진대회
+
+- **COSS 스타트업 경진대회 1위** – 반려견 건강 SNS ‘뚜벅뚜멍’ MVP (2024.06)
+- **TABA 4기 장려상** – iShopping AR 기반 쇼핑 도우미 앱(시각장애인 지원)  (2023.12)
+- **4D 로봇 경진대회 최우수상** – 씨름 로봇 하드웨어 및 알고리즘 개발 (2019.11)
+- **통일 적정기술 Maker’s 해커톤 최우수상** – 민둥산 관리 로봇 MVP 개발 (2019.08)
+
+---
+
+### 🧰 Tech & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-SwiftUI-30B754?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white" />  <img src="https://img.shields.io/badge/-SwiftUI-30B754?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-ARKit-0FAEFF?style=flat&logo=apple&logoColor=white" />  <img src="https://img.shields.io/badge/-Core%20ML-100000?style=flat&logo=apple&logoColor=white" />  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />  <img src="https://img.shields.io/badge/-WebAssembly-E34F26?style=flat&logo=webassembly&logoColor=white" />
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white" />  <img src="https://img.shields.io/badge/-Express-404D59?style=flat" />  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" />  <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white" />  
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white" />  
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C%2FC++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/-ROS-22314E?style=flat&logo=ros&logoColor=white" />  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />  <img src="https://img.shields.io/badge/-JNI-12005E?style=flat" />  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white" />
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/-Google%20Colab-4285F4?style=flat&logo=googlecolab&logoColor=white" />
+
+---
+
+### 📫 연락처 및 링크
+
+- ✉️ Email: [MyKnow](myknow00@naver.com)
+- 🎥 YouTube: [MyKnow 채널](https://www.youtube.com/@my_know)
+
+---
+
+**“Full‑cycle 기술 구현으로 실질적 가치를 창출합니다.”**  
+Flutter, 서버, 인프라, AI, 하드웨어까지 다양한 프로젝트 수행 경험을 바탕으로  
+기술 중심의 의미 있는 서비스와 협업을 기대합니다.
