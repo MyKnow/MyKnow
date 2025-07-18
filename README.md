@@ -25,7 +25,7 @@
 - [**Woju: 중고 물품 교환 플랫폼**](https://github.com/MyKnow/woju) – Project Manager, Front-End, Back-End, DevOps
 - [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
 - [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
-- [**iShoppin: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스**](https://github.com/MyKnow/ishopping) – Project Manager, Front-End, AI Data Manager
+- [**iShopping: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스**](https://github.com/MyKnow/ishopping) – Project Manager, Front-End, AI Data Manager
 - [**Stay19.5: AI 기반 네컷사진 분류 서비스**](https://github.com/MyKnow/Stay19.5) – Front-End 
 - [**뚜벅뚜멍: AI 기반 반려견 건강 관리 SNS**](https://github.com/MyKnow/b2gin) – Project Manager, Front-End
 
@@ -49,7 +49,7 @@
 
 ### 🥇 주요 수상 및 경진대회
 
-- **COSS 스타트업 경진대회 1위** – 반려견 건강 SNS ‘뚜벅뚜멍’ MVP (2024.06)
+- **COSS 스타트업 경진대회 대상** – 반려견 건강 SNS ‘뚜벅뚜멍’ MVP (2024.06) [관련 기사 링크](https://www.dankook.ac.kr/widget/web/kor/dku-today?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=21&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=787712)
 - **TABA 4기 장려상** – iShopping AR 기반 쇼핑 도우미 앱(시각장애인 지원)  (2023.12)
 - **4D 로봇 경진대회 최우수상** – 씨름 로봇 하드웨어 및 알고리즘 개발 (2019.11)
 - **통일 적정기술 Maker’s 해커톤 최우수상** – 민둥산 관리 로봇 MVP 개발 (2019.08)
