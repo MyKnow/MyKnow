@@ -25,7 +25,7 @@
 
 ### ⭐️ Starred Projects
 
-- [**Woju: 중고 물품 교환 플랫폼**](https://github.com/MyKnow/woju) – Project Manager, Front-End, Back-End, DevOps
+- **Woju: 중고 물품 교환 플랫폼** – Project Manager, [Front-End](https://github.com/MyKnow/woju), [Back-End](https://github.com/MyKnow/woju_backend), DevOps
 - [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
 - [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
 - [**iShopping: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스**](https://github.com/MyKnow/ishopping) – Project Manager, Front-End, AI Data Manager
