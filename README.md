@@ -25,7 +25,6 @@
 
 ### ⭐️ Ongoing projects
 
-- [**MyKnow's PUBG: PUBG 인게임 정보 열람 앱**](https://github.com/MyKnow/myknow-pubg) - ALL
 - [**Algorithms: 백준 및 프로그래머스 풀이**](https://github.com/MyKnow/algorithms) - C++, Swift, Python
 
 ---
