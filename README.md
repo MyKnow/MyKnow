@@ -9,16 +9,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myknow00)](https://solved.ac/myknow00/)
 
 [![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMyKnow%2F?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
-> 저는 **PM, Flutter · iOS Front-End · DevOps · QA**로  
-> 모바일·웹·서버·인프라 전반에 걸친 **Full‑Cycle 개발 역량**과  
-> 하루 만에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
+> **Product Manager, Flutter, Backend, DevOps**개발자로  
+> 모바일·서버·인프라 전반에 걸친 **개발 역량**과  
+> 단기간에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
 
 ### Notice
-- 🔭 현재 기획 중: **On-Device LLM기반 공감형 일기장 앱**  
-- 🌱 학습 중: **SwiftUI on iOS26**
+- 🔭 현재 기획 중: **자기소개 사이트**  
+- 🌱 학습 중: **React**, **Tomcat**
 - 📚 탐색 중: **LLM**, **Kubernetes**  
 - 👯 협업 희망: iOS Native, Flutter Project
-- 💬 문의 가능 분야: Flutter, DevOps 자동화, WebAssembly, AI 연동 
+- 💬 문의 가능 분야: Flutter, DevOps 자동화, AI 연동, 프로젝트 기획
 
 
 ---
@@ -42,7 +42,6 @@
 
 ### 🎓 학력 및 수료
 
-- **병장 전역 (정보병과, 2020.03-2021.10)**  
 - **여수고등학교 졸업 (2016.03-2019.02)**  
 - **단국대학교 모바일시스템공학전공 졸업 (2019.03–2025.02)**  
 - **TABA(Top-tier AI Bigdata Academy) 4기 부트캠프  우수 프로젝트 수료 (2023.09-2023.12)**
@@ -94,6 +93,6 @@
 
 ---
 
-**“Full‑cycle 기술 구현으로 실질적 가치를 창출합니다.”**  
+**“기술 구현으로 실질적 가치를 창출합니다.”**  
 Flutter, 서버, 인프라, AI, 하드웨어까지 다양한 프로젝트 수행 경험을 바탕으로  
 기술 중심의 의미 있는 서비스와 협업을 기대합니다.
