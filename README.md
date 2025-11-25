@@ -14,7 +14,7 @@
 > 단기간에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
 
 ### Notice
-- 🔭 현재 기획 중: **자기소개 사이트**  
+- 🔭 현재 기획 중: **소개팅 서비스**  
 - 🌱 학습 중: **React**, **Tomcat**
 - 📚 탐색 중: **LLM**, **Kubernetes**  
 - 👯 협업 희망: iOS Native, Flutter Project
