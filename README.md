@@ -5,7 +5,8 @@
 
 
 ### State
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myknow)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 오류로 인한 주석 처리 -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myknow)](https://github.com/myknow/github-readme-stats) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myknow00)](https://solved.ac/myknow00/)
 
 [![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMyKnow%2F?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
