@@ -32,7 +32,7 @@
 
 ### ⭐️ Starred Projects
 
-- **[StudySpot](https://github.com/orgs/sprinter-wtc/repositories): 최적의 공부 장소 추천 서비스** - [Project Manager](https://myknow.notion.site/2a1406c3c4888012aba0ce03611ed83f?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link), [DevOps](https://www.notion.so/myknow/StudySpot-2a2406c3c488806995f0de1a385f4772?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link#2a2406c3c488804e9626da6db050b610)
+- **[StudySpot: 최적의 공부 장소 추천 서비스](https://github.com/orgs/sprinter-wtc/repositories)** - [Project Manager](https://myknow.notion.site/2a1406c3c4888012aba0ce03611ed83f?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link), [DevOps](https://www.notion.so/myknow/StudySpot-2a2406c3c488806995f0de1a385f4772?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link#2a2406c3c488804e9626da6db050b610)
 - **Woju: 중고 물품 교환 플랫폼** – Project Manager, [Front-End](https://github.com/MyKnow/woju), [Back-End](https://github.com/MyKnow/woju_backend), DevOps
 - [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
 - [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
@@ -59,7 +59,7 @@
 
 ### 🥇 주요 수상 및 경진대회
 
-- **COSS 스타트업 경진대회 대상** – 반려견 건강 SNS ‘뚜벅뚜멍’ MVP (2024.06) [관련 기사 링크](https://www.dankook.ac.kr/widget/web/kor/dku-today?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=21&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=787712)
+- **COSS 스타트업 경진대회 대상** – 반려견 건강 SNS ‘뚜벅뚜멍’ MVP (2024.06, [관련 기사 링크](https://swcu.dankook.ac.kr/web/kor/dku-today?p_p_id=dku_bbs_web_BbsPortlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_dku_bbs_web_BbsPortlet_cur=30&_dku_bbs_web_BbsPortlet_bbsMessageId=19371&_dku_bbs_web_BbsPortlet_action=view_message))
 - **TABA 4기 장려상** – iShopping AR 기반 쇼핑 도우미 앱(시각장애인 지원)  (2023.12)
 - **4D 로봇 경진대회 최우수상** – 씨름 로봇 하드웨어 및 알고리즘 개발 (2019.11)
 - **통일 적정기술 Maker’s 해커톤 최우수상** – 민둥산 관리 로봇 MVP 개발 (2019.08)
