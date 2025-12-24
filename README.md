@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello+World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MyKnow&fontSize=70)
 
 
-  <img width="855" height="600" alt="image" src="https://github.com/user-attachments/assets/b6b54319-31eb-4ab5-b1b6-ba816c1f4912" />
+<img width="855" height="600" alt="image" src="https://github.com/user-attachments/assets/b6b54319-31eb-4ab5-b1b6-ba816c1f4912" />
 
 
 ### State
@@ -10,15 +10,15 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myknow00)](https://solved.ac/myknow00/)
 
 [![Visitors](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FMyKnow%2F?color=blue&label=Visitors&size=small)](https://myhits.vercel.app)
-> **Product Manager, Flutter, Backend, DevOps**개발자로  
+> **Product Manager, Mobile App, Backend, DevOps**개발자로  
 > 모바일·서버·인프라 전반에 걸친 **개발 역량**과  
 > 단기간에 MVP를 완성하는 **실행 중심 리더십**을 보유하고 있습니다.
 
 ### Notice
 - 🔭 현재 기획 중: **소개팅 서비스**  
-- 🌱 학습 중: **React**, **Tomcat**
-- 📚 탐색 중: **LLM**, **Kubernetes**  
-- 👯 협업 희망: iOS Native, Flutter Project
+- 🌱 학습 중: **React**
+- 📚 탐색 중: **LLM**
+- 👯 협업 희망: Flutter Project
 - 💬 문의 가능 분야: Flutter, DevOps 자동화, AI 연동, 프로젝트 기획
 
 
@@ -27,18 +27,19 @@
 ### ⭐️ Ongoing projects
 
 - [**Algorithms: 백준 및 프로그래머스 풀이**](https://github.com/MyKnow/algorithms) - C++, Swift, Python
+- **Wingle: 이 세상에 없던 신개념 소개팅 서비스** - Owner, Project Manager, App Developer
 
 ---
 
 ### ⭐️ Starred Projects
 
-- **[StudySpot: 최적의 공부 장소 추천 서비스](https://github.com/orgs/sprinter-wtc/repositories)** - [Project Manager](https://myknow.notion.site/2a1406c3c4888012aba0ce03611ed83f?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link), [DevOps](https://www.notion.so/myknow/StudySpot-2a2406c3c488806995f0de1a385f4772?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link#2a2406c3c488804e9626da6db050b610)
-- **Woju: 중고 물품 교환 플랫폼** – Project Manager, [Front-End](https://github.com/MyKnow/woju), [Back-End](https://github.com/MyKnow/woju_backend), DevOps
-- [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
+- **[StudySpot: 최적의 공부 장소 추천 서비스 Prototype](https://github.com/orgs/sprinter-wtc/repositories)** - [Project Manager](https://myknow.notion.site/2a1406c3c4888012aba0ce03611ed83f?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link), [DevOps](https://www.notion.so/myknow/StudySpot-2a2406c3c488806995f0de1a385f4772?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link#2a2406c3c488804e9626da6db050b610)
+- **Woju: 중고 물품 교환 플랫폼 Prototype** – Project Manager, [App Developer](https://github.com/MyKnow/woju), [Back-End](https://github.com/MyKnow/woju_backend), DevOps
+- [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, App Developer, DevOps
 - [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
-- [**iShopping: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스**](https://github.com/MyKnow/ishopping) – Project Manager, Front-End, AI Data Manager
-- [**Stay19.5: AI 기반 네컷사진 분류 서비스**](https://github.com/MyKnow/Stay19.5) – Front-End 
-- [**뚜벅뚜멍: AI 기반 반려견 건강 관리 SNS**](https://github.com/MyKnow/b2gin) – Project Manager, Front-End
+- [**iShopping: On-Device AI 기반 시각장애인 쇼핑 도우미 서비스 Prototype**](https://github.com/MyKnow/ishopping) – Project Manager, App Developer, AI Data Manager
+- [**Stay19.5: AI 기반 네컷사진 분류 서비스 Prototype**](https://github.com/MyKnow/Stay19.5) – Front-End 
+- [**뚜벅뚜멍: AI 기반 반려견 건강 관리 SNS Prototype**](https://github.com/MyKnow/b2gin) – Project Manager, App Developer
 
 ---
 
