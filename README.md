@@ -32,6 +32,7 @@
 
 ### ⭐️ Starred Projects
 
+- **StudySpot: 최적의 공부 장소 추천 서비스** - [Project Manager](https://myknow.notion.site/2a1406c3c4888012aba0ce03611ed83f?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link), [DevOps](https://www.notion.so/myknow/StudySpot-2a2406c3c488806995f0de1a385f4772?v=2a1406c3c48881efb74a000cf2c0f21f&source=copy_link#2a2406c3c488804e9626da6db050b610)
 - **Woju: 중고 물품 교환 플랫폼** – Project Manager, [Front-End](https://github.com/MyKnow/woju), [Back-End](https://github.com/MyKnow/woju_backend), DevOps
 - [**오리 & 가오리: 특수상권 웨이팅 서비스**](https://github.com/MyKnow/OrRe) - Project Manager, Front-End, DevOps
 - [**IMP: FPGA 연동 카드 게임**](https://github.com/MyKnow/IMP) – Android 커널 수정, JNI C 모듈 + Unity 연동  
