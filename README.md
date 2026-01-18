@@ -70,7 +70,7 @@
 ### 🧰 Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-SwiftUI-30B754?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white" />  <img src="https://img.shields.io/badge/-SwiftUI-30B754?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-ARKit-0FAEFF?style=flat&logo=apple&logoColor=white" />  <img src="https://img.shields.io/badge/-Core%20ML-100000?style=flat&logo=apple&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-SwiftUI-30B754?style=flat&logo=swift&logoColor=white" />  <img src="https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white" />  <img src="https://img.shields.io/badge/-ARKit-0FAEFF?style=flat&logo=apple&logoColor=white" />  <img src="https://img.shields.io/badge/-Core%20ML-100000?style=flat&logo=apple&logoColor=white" />  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />  <img src="https://img.shields.io/badge/-WebAssembly-E34F26?style=flat&logo=webassembly&logoColor=white" />
