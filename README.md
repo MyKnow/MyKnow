@@ -26,7 +26,7 @@
 
 ### ⭐️ Ongoing projects
 
-- **SSARTNERSHIP: 지역상권 제휴 서비스** - Owner, Full-Stack
+- **[SSARTNERSHIP](https://ssartnership.myknow.xyz/): 지역상권 제휴 서비스** - Owner, Full-Stack
 
 ---
 
