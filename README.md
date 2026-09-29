@@ -26,8 +26,7 @@
 
 ### ⭐️ Ongoing projects
 
-- [**Algorithms: 백준 및 프로그래머스 풀이**](https://github.com/MyKnow/algorithms) - C++, Swift, Python
-- **Wingle: 이 세상에 없던 신개념 소개팅 서비스** - Owner, Project Manager, App Developer
+- **SSARTNERSHIP: 지역상권 제휴 서비스** - Owner, Full-Stack
 
 ---
 
